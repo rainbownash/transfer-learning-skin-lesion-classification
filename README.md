@@ -36,7 +36,7 @@ El notebook descarga automáticamente el dataset, por lo que no es necesario des
 ├── scripts/
 │   └── download_models.py     # Descarga automática de los modelos
 ├── requirements.txt
-├── TFM.ipynb
+├── notebook.ipynb
 └── README.md
 ```
 
