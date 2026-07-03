@@ -74,9 +74,9 @@ Las celdas de entrenamiento se conservan comentadas para documentar la configura
 
 ## Experimentos incluidos
 
-- CNN baseline con 3 conv
-- CNN baseline sin class weights
-- CNN baseline con 4 conv
+- CNN baseline con 3 bloques convolucionales + class weights
+- CNN baseline con 3 bloques convolucionales sin class weights
+- CNN baseline con 4 bloques convolucionales + class weights
 - EfficientNet-B0 con Feature Extraction
 - EfficientNet-B0 con Fine-Tuning parcial
 - EfficientNet-B0 con Fine-Tuning completo
